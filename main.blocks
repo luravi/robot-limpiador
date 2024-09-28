@@ -1,0 +1,3 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="dNkE/,}ct[2SX|~~b3NV">direction</variable><variable id="B,p_FAU1.d}hsy9iUg.:">y</variable><variable id="?U[;*ofa9TFn~PK/;CV$">x</variable><variable id="N(*@J*hhEXNg(oV+}KK$">N</variable><variable id="(-Es^YolIaUN3L^SzL~d">room</variable><variable id="bS!]rXom.pNjnZtN)_hF">row</variable></variables><comment id="?J}mWf2}Y/evj]VdHrh~" x="638" y="1646" w="450" h="120">
+Mapa de la habitación (0 = sucia, 1 = limpia)
+</comment></xml>
